@@ -41,7 +41,7 @@ header .downlad-btn{ padding: 10px 20px; border-radius: 4px;transform: translate
 
 .portfolio-section .portfolioFilter{ margin-top: 60px; color: #666; }
 
-.portfolio-section .portfolioFilter a{ margin: 10px 10px 0 0; }
+.portfolio-section .portfolioFilter a{ margin: 10px 10px 0 0; font-size: 12px;}
 
 #h3{
     position: absolute;
@@ -57,6 +57,9 @@ header .downlad-btn{ padding: 10px 20px; border-radius: 4px;transform: translate
     width: 10vw;
     height: 2vh;
     border-radius: 8px;
+}
+#heading{
+    display: none;
 }
 
 }
