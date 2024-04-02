@@ -62,4 +62,72 @@ header .downlad-btn{ padding: 10px 20px; border-radius: 4px;transform: translate
     display: none;
 }
 
+.containeer .roow{
+    display: grid;
+    grid-template-columns:1fr;
+    padding: 20px;
+}
+#push{
+    position: relative;
+    top: 30%;
+    left: -5%;
+}
+
+#para{
+    margin-top: 15%;
+
+}
+
+#push{
+    display: none;
+}
+
+.progress-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+
+  #container3{
+    grid-template-columns: 1fr;
+    
+  }
+
+  .experience-section{padding: 40px 0px;padding-left: 10px; }
+
+  #experience{
+    padding-top: 20%;
+  }
+
+  #h6{
+    font-size: 8px;
+    margin-top: 10%;
+    margin-left: 3%;
+  }
+
+  #row4{
+    grid-template-columns: 1fr;
+    padding: 30px 3px;
+}
+
+#lex{
+    margin-top: 20%;
+}
+
+#row4{
+    grid-template-columns: 1fr;
+    padding: 30px 3px;
+}
+
+#row5{
+    grid-template-columns: 1fr;
+    gap: 30px;
+}
+
+.copyright{overflow-x: hidden;font-size: 8px; text-align: center; padding: 30px 0; background: #28023D; }
+
+
 }
